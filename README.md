@@ -1,4 +1,4 @@
-# onlinestoreapi
+# API of the Online Store
 Online store API with PostgreSQL, Node.js, Express.js, Sequelize
 Also has JWT and bCrypt for data protection and authentication.
 # Commands 
